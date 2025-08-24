@@ -1,4 +1,1 @@
-app_id:14f6177e-2cf6-4d0b-8ced-26ed7a443332
-object_id:795adaa4-fb85-4a02-a9a9-903e71e0c364
-secret:psr8Q~k5WgmCZoyixXcMCIYP3Z5EZ3xwzSGoHdid
-secret_2:993a190b-f7f2-452c-beb8-71c6d50d3e84
+
